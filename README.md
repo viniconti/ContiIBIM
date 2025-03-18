@@ -1,12 +1,16 @@
-# React + Vite
+# Passo a Passo - Atividade de Programação para Internet  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- [x] Criar um repositório, será usado durante o bimestre, no GitHub  
 
-Currently, two official plugins are available:
+- [x] Nome do repositório deverá ser seuSobreNome+"IBIM" -> Ex: “LeiserIBIM”
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [x] Configurar git local 
+- [x] Conectar o repositório para a máquina local  
+- [x] Inicializar um projeto React com Vite  (instruções no site do vite)
+- [x] Navegar até a pasta do projeto e instalar dependências (npm install)  
+- [x] Executar o projeto para verificar se está funcionando  
+- [ ] Editar o arquivo `app.js` para criar uma página HTML básica de uma loja (último trabalho do ano passado)  
+- [ ] Criar um arquivo `README.md` e inserir esse arquivo de texto nele
+- [ ] Comitar as alterações no Git  
+- [ ] Enviar as alterações para o repositório remoto no GitHub  (git push)
+- [ ] Enviar o link do repositório para o professor no ECLASS 
