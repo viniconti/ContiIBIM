@@ -1,0 +1,38 @@
+.rodape {
+    margin-top: 35px;
+    width: 100%;
+    height: 230px;
+    background-color: rgb(4, 4, 20);
+  }
+.logofinal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .logo2 {
+    margin-top: 20px;
+    height: 71px;
+    width: 71px;
+  }
+  .desc {
+    font-size: 20px;
+    margin-top: 25px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .redessociais {
+    margin-top: 40px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+  @media (min-width: 768px) {
+
+    .boxfinal {
+        text-align: center;
+    }
+  }

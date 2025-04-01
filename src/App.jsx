@@ -8,17 +8,7 @@ function App() {
 
   return (
     <>
-      <header className="topo">
-        <div className="container">
-            <div className="topbox">
-                <img className="logo"
-                    src="https://www.reidoscoins.com.br/image/cache/catalog/Rei-dos-Coins-Logo-RDC-120x120.webp" />
-                <div className="h1">
-                    <h1>Rei dos coins</h1>
-                </div>
-            </div>
-        </div>
-    </header>
+    <Header />
     <div className="bottombox">
         <div className="subtopo">
             <div className="h2">
@@ -145,21 +135,7 @@ function App() {
                 </div>
             </div>
         </div>
-        <div className="rodape">
-            <div className="logofinal"><img className="logo2"
-                    src="https://www.reidoscoins.com.br/image/cache/catalog/Rei-dos-Coins-Logo-RDC-120x120.webp" /></div>
-            <div className="boxfinal">
-                <div className="desc">Nos siga nas nossas redes sociais</div>
-                <div className="redessociais">
-                    <div className="instagram"><img
-                            src="https://www.reidoscoins.com.br/image/cache/common/footer/instagram-35x35.webp" /></div>
-                    <div className="facebook"><img
-                            src="https://www.reidoscoins.com.br/image/cache/common/footer/facebook-35x35.webp" /></div>
-                    <div className="tiktok"><img
-                            src="https://www.reidoscoins.com.br/image/cache/common/footer/tiktok-35x35.webp" /></div>
-                </div>
-            </div>
-        </div>
+       <Footer />
     </div>
     </>
   )
