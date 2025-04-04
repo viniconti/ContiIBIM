@@ -1,10 +1,10 @@
 import React from 'react';
-import './Itens.css';
+import './ProductList.css';
 
-function Itens() {
+function ProductList() {
   return (
     <>
-    <div className="itens">
+    <div className="ProductList">
             <div className="card">
                 <div className="imagem">
                     <img className="gift" src="https://www.reidoscoins.com.br/image/cache/catalog/Home/Xbox-204x286.webp" />
@@ -122,4 +122,4 @@ function Itens() {
   );
 }
 
-export default Itens;
+export default ProductList;

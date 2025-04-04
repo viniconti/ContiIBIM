@@ -1,4 +1,4 @@
-.itens {
+.ProductList {
   display: grid;
   justify-content: center;
   align-items: center;
@@ -42,7 +42,7 @@
 }
 
 @media (min-width: 768px) {
-  .itens {
+  .ProductList {
       grid-template-columns: repeat(3, auto);
   }
 }

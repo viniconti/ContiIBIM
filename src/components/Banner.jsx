@@ -1,14 +1,14 @@
 import React from 'react';
-import './Anuncio.css';
+import './Banner.css';
 
-function Anuncio() {
+function Banner() {
   return (
     <>
-    <div><img className="anuncio"
+    <div><img className="Banner"
                 src="https://www.reidoscoins.com.br/image/cache/catalog/banners/Rei-dos-Coins-Banner-Twitch-SUB-1903x351.webp" />
         </div>
     </>
   );
 }
 
-export default Anuncio;
+export default Banner;

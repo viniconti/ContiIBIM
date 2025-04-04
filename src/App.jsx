@@ -5,8 +5,8 @@ import './App.css'
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Subtopo from './components/Subtopo';
-import Anuncio from './components/Anuncio';
-import Itens from './components/Itens';
+import Banner from './components/Banner';
+import ProductList from './components/ProductList';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -16,8 +16,8 @@ function App() {
     <Header />
     <div className="bottombox">
         <Subtopo />
-        <Anuncio />
-        <Itens />
+        <Banner />
+        <ProductList />
        <Footer />
     </div>
     </>
