@@ -1,0 +1,35 @@
+.card {
+  width: 200px;
+  height: 290px;
+  border-radius: 15px;
+  margin-top: 40px;
+  background-color: rgb(7, 9, 75);
+  border: 3px solid red;
+}
+
+.gift {
+  width: 130px;
+  height: 180px;
+  margin-top: 20px;
+}
+
+.imagem {
+  display: flex;
+  justify-content: center;
+}
+
+.text-main {
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-weight: 600;
+  font-size: 20px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.preço {
+  color: white;
+  font-weight: 300;
+  margin-left: 20px;
+  font-size: 18px;
+  font-family: "Ubuntu", sans-serif;
+}
