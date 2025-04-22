@@ -48,5 +48,6 @@ Abra o terminal do VS Code na pasta do projeto e digite o comando abaixo para in
 "npm run dev"
 
 caso de erro, digite "npm install" e tente digitar o "npm run dev" novamente
+
 💭 Reflexão Final
 Durante o desenvolvimento do projeto, enfrentei desafios como a adaptação do HTML puro para componentes React e o entendimento da estrutura do Vite. No entanto, esses obstáculos foram grandes oportunidades de aprendizado. Aprendi mais sobre componentização, organização de projetos e o uso do GitHub para versionamento. Essa experiência contribuiu bastante para minha evolução como desenvolvedor.
